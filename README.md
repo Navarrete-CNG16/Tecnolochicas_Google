@@ -19,24 +19,9 @@ Durante el desarrollo de este proyecto, he aprendido varias cosas importantes:
 
 3. **Responsividad:** He trabajado en hacer el sitio web responsivo, asegurándome de que se vea bien en diferentes tamaños de pantalla.
 
-## Cómo ver el proyecto
-
-Puedes ver el proyecto clon de la interfaz principal de Google ingresando a este enlace: https://clongooglewtshnadeath.netlify.app/
-
-## Capturas de pantalla
-
-Aquí hay algunas capturas de pantalla del proyecto:
-![image](https://github.com/wtshnadeath/ClonDeGoogle/assets/111034219/365d6988-e806-48ae-af18-b281e8d8aa5f)
-
-## Contribuciones
-
-Siéntete libre de hacer contribuciones, sugerencias o informar de problemas en el proyecto. Las contribuciones son siempre bienvenidas.
 
 ## Agradecimientos
 
 Quiero agradecer a Tecnolochicas por proporcionar un excelente curso que me ayudó a entender cómo construir este proyecto.
 
----
-
-*Nota: Este proyecto es solo con fines educativos y de aprendizaje. Google y su interfaz son marcas registradas de Google LLC.*
 
